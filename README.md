@@ -1,41 +1,41 @@
-Olufisayo Adepegba
+## Olufisayo Adepegba
 
 Cloud and DevOps enthusiast focused on building secure, scalable infrastructure using AWS and Infrastructure as Code.
 
 ---
 
-Professional Summary
+## Professional Summary
 
 I am developing hands-on experience with cloud infrastructure, automation, and DevOps practices. My work focuses on using Terraform and AWS to build secure, repeatable infrastructure deployments that follow industry best practices.
 
 ---
 
-Technical Skills
+## Technical Skills
 
-Cloud Platforms
+## Cloud Platforms
 - Amazon Web Services (AWS)
 
-Infrastructure as Code
+## Infrastructure as Code
 - Terraform
 
-Version Control
+## Version Control
 - Git
 - GitHub
 
-Cloud Security
+## Cloud Security
 - S3 security best practices
 - Encryption and access control
 - Infrastructure security configuration
 
 ---
 
-Featured Project
+## Featured Project
 
-Secure AWS S3 Infrastructure with Terraform
+- Secure AWS S3 Infrastructure with Terraform
 
-Designed and deployed secure AWS S3 infrastructure using Terraform following Infrastructure as Code principles.
+- Designed and deployed secure AWS S3 infrastructure using Terraform following Infrastructure as Code principles.
 
-Key features implemented:
+## Key features implemented:
 
 - Server-side encryption
 - Bucket versioning
@@ -44,26 +44,41 @@ Key features implemented:
 - Lifecycle policies for automated storage management
 - Remote Terraform state backend
 
-Project repository:  
+## Project repository:  
 https://github.com/Fisayo24/aws-secure-s3-terraform
 
 ---
 
- Currently Learning
-
+ ## Currently Learning
 - Docker containerization
 - CI/CD pipelines
 - Kubernetes
 - Cloud infrastructure automation
 
 ---
+## Deployment Instructions
+= Clone the repository:
+- git clone https://github.com/Fisayo24/aws-secure-s3-terraform.git
+- Navigate to the project directory:
+- cd aws-secure-s3-terraform
+- Initialize Terraform:
+- terraform init
+- Preview infrastructure changes:
+- terraform plan
+- Apply the configuration:
+- terraform apply
 
- Career Objective
+- Career Objective
+-Seeking opportunities to contribute to cloud infrastructure and DevOps environments while continuing to develop expertise in scalable and secure cloud systems.
 
-Seeking opportunities to contribute to cloud infrastructure and DevOps environments while continuing to develop expertise in scalable and secure cloud systems.
+## What This Project Demonstrates
+
+- Infrastructure as Code using Terraform
+- Secure AWS S3 configuration following best practices
+- Terraform state management with remote backend
+- Implementation of cloud security controls
+- Repeatable cloud infrastructure deployments
 
 ---
-
-Contact
-
+## Contact
 LinkedIn: https://www.linkedin.com/in/olufisayo-a-661882248/
